@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hello Gophers](https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif)
+
 <!--
 **spitfire55/spitfire55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
