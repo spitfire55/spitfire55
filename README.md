@@ -2,6 +2,12 @@
 
 ![Hello Gophers](https://res.cloudinary.com/practicaldev/image/fetch/s--3rFO85cD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/bkv3xbjb74epempcjone.gif)
 
+![spitfire55's GitHub stats](https://github-readme-stats.vercel.app/api?username=spitfire55&theme=tokyonight&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spitfire55&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=spitfire55&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--
 **spitfire55/spitfire55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
